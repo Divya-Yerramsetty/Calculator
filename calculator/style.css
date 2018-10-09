@@ -1,0 +1,13 @@
+body{
+    background-image: url("calc.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+label {
+    font-size: 25px;
+}
+
+.col-md-6 {
+    padding-left: 95px !important;
+}
